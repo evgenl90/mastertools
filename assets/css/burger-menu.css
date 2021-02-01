@@ -1,0 +1,21 @@
+.burger-menu{
+    display: none;
+}
+.mobile-menu {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background:  #000;
+    padding: 10px;
+}
+
+.mobile-menu p{
+    color: #00bed4;
+    margin-bottom: 20px;
+}
+.mobile-menu__close{
+    text-align: right;
+    padding: 20px;
+}
